@@ -14,8 +14,8 @@ For storing and retrieving data efficiently, it uses CoreData, ensuring that you
 **UI**: A form where users can input the budget title and limit, with a save button to add the budget.
 
 <p align="center">
-  <img width="450" alt="Screenshot 2024-06-25 at 13 59 30" src="https://github.com/YuliaShinkareva/ExpensesApp/assets/112308390/14914694-2d7e-49ab-9f9e-a6534234ce0b">
- <img width="450" alt="Screenshot 2024-06-25 at 13 52 44" src="https://github.com/YuliaShinkareva/ExpensesApp/assets/112308390/32355fbe-4a9d-44eb-ab96-34de688062a4">
+  <img width="400" alt="Screenshot 2024-06-25 at 13 59 30" src="https://github.com/YuliaShinkareva/ExpensesApp/assets/112308390/14914694-2d7e-49ab-9f9e-a6534234ce0b">
+ <img width="400" alt="Screenshot 2024-06-25 at 13 52 44" src="https://github.com/YuliaShinkareva/ExpensesApp/assets/112308390/32355fbe-4a9d-44eb-ab96-34de688062a4">
 </p>
 
 ### 2. View Budget Overview
